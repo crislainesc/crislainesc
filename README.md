@@ -1,6 +1,6 @@
 <h1 align="center">Hey guys 👋 i'm Crislâine</h1>
 
-<h3 align= "center">I'm a student of back end development 👾</h3>
+<h3 align= "center">I'm a student of development 👾</h3>
 
 ## 
 
