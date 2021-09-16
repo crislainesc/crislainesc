@@ -5,7 +5,7 @@
 ## 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/crislainesc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crislainesc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislainesc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -15,6 +15,7 @@
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="gif" height="100em" src="https://cdn.discordapp.com/attachments/831237388583043124/880147448637554688/picasion.com_d0f2987205db634015d603fb380004fc.gif">
 </div>
+
   
  ##
  
