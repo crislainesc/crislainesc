@@ -3,7 +3,7 @@
 <h3 align= "center">I'm a student of development 👾</h3>
 
 * I am currently studying Computer Science at UFAL 📚
-* Also studying Front-end development 🐱‍💻
+* Also studying development 🐱‍💻
 
 
 Lover of Technology and Coding ❤
