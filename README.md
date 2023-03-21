@@ -31,13 +31,7 @@ Lover of Technology and Coding ❤
 
    <img align="center" alt="Cris-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-  
-  ## 
-<div> 
-  <h3>Meet me! 🚀💻</h3>
-  <a href="https://www.linkedin.com/in/crislâine-santos-20b524a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:criis.santos@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 
     
  ##
