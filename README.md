@@ -1,6 +1,6 @@
 <h2 align="center">Hey guys 👋 i'm Crislâine</h2>
 
-<h3 align= "center">I'm a student of development 👾</h3>
+<h3 align= "center">I'm a development 👾</h3>
 
 * I have a bachelor's degree in Computer Science from UFAL 📚
 * I am currently a Junior Developer at Luby Software 🐱‍💻
