@@ -2,8 +2,8 @@
 
 <h3 align= "center">I'm a student of development 👾</h3>
 
-* I'm currently studying Computer Science at UFAL 📚
-* Currently i'm a developer at Luby Software 🐱‍💻
+* I have a bachelor's degree in Computer Science from UFAL 📚
+* I am currently a Junior Developer at Luby Software 🐱‍💻
 
 
 Lover of Technology and Coding ❤
