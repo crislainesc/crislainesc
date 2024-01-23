@@ -39,7 +39,8 @@ Lover of Technology and Coding ❤
    
  <div align="center">
   
-![Snake animation](https://github.com/crislainesc/crislainesc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/crislainesc/crislainesc/blob/output/github-snake.svg)
+
 </div>
 
 
